@@ -33,7 +33,6 @@
 .div-2 .h1-1{
     font-size: 5em;
     text-align: center;
-    /* color: rgb(255, 255, 255); */
     margin-top: 400px;
 }
 
@@ -139,14 +138,42 @@ section .p-2{
     padding-left: 64%;
     padding-top: 10%;
 }
-.pack{
-    color: white;
-    padding-top: 30%;
-    padding-left: 25%;
-    font-size: larger;
-}
+
 .port{
+    font-size: large;
     padding-top: 30%;
+    padding-left: 23%;
+}
+.port .ses{
+    padding-left: 11%;
+}
+.port .ase{
+    padding-left: 8%;
+}
+.last{
+    font-size: medium;
+    padding-left: 25%;
+}
+.last .typo{
+    padding-left: 17%;
+}
+.last .photo{
+    padding-left: 18%;
+}
+.resume{
+    padding-left: 18%;
+    padding-top: 3%;
+    font-size: xx-large;
+}
+.exprnc{
     padding-left: 25%;
 }
 
+.edu-1 .education{
+    background-color: rgb(53, 42, 42);
+    width: 30%;
+    height: 20%;
+    padding-left: 20%;
+    padding-top: 3%;
+
+}
