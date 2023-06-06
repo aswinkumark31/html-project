@@ -174,7 +174,6 @@ section .p-2{
     width: 25%;
     
     padding-left: 2%;
-    /* padding-right: 8%; */
     padding-top: 2%;
     padding-bottom: -8%;
     margin-left: 2%;
@@ -229,7 +228,6 @@ section .p-2{
     color: rgb(123, 109, 109);
 }
 .eduexp-1{
-    /* display: inline-flex; */
     margin-left: 17%;
 }
 .rezume .rez{
@@ -238,7 +236,7 @@ section .p-2{
     margin-left: 18%;
 }
 .about .abt{
-    color: white;
+    color: rgba(255, 255, 255, 0.4);
     margin-left: 55%;
     margin-top: -20%;
 }
@@ -252,3 +250,69 @@ section .p-2{
     padding-bottom: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.abt .subpara{
+    font-size: large;
+    line-height: 25px;
+}
+.cv .hire{
+    
+    color: white;
+    margin-left: 55%;
+    text-decoration: none;
+    background-color: rgb(145, 169, 99);
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+    
+}
+.cv .cvs{
+    color: white;
+    background-color: #333;
+    margin-left: 2%;
+    text-decoration: none;
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+}
+.cv{
+    margin-top: 3%;
+}
+
+.client{
+    color: white;
+    margin-left: 43%;
+    margin-top: 15%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 20px;
+}
+.client span{
+    font-weight: 5%;
+}
+.desp{
+    color: rgba(255, 255, 255, 0.4);
+    width: 23%;
+    background-color: #333;
+    margin-top: 5%;
+    margin-left: 24%;
+    padding: 20px 20px 20px 10px;
+    line-height: 30px;
+    border-radius: 10px;
+    font-size: larger;
+}
+.desp .name{
+    font-size: medium;
+}
+.desp .ce{
+    font-size: medium;
+    color: rgb(145, 169, 99);
+}
+.desp .writer{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.clints .img-1{
+    width: 50px;
+    margin-left: 19%;
+    border-radius: 50%;
+    
+}
+
