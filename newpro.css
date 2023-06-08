@@ -26,6 +26,8 @@
 
 .nav-1{
     margin-left: 600px;
+    /* position: fixed;
+    top: 0; */
     
     
 }
@@ -33,15 +35,17 @@
 .div-2 .h1-1{
     font-size: 5em;
     text-align: center;
-    margin-top: 400px;
+    margin-top: 300px;
+    color: white;
 }
 
-.h1-2{
+.div-2 .h1-2{
     
     font-size: medium;
+    padding-top: 15px;
     margin-bottom: 200px;
     margin-left: 850px;
-    color: white;
+    color: rgba(255, 255, 255, 0.4);
     
 }
 .nav-1{
@@ -54,7 +58,7 @@
 }
 section.sec-1{
     background-color: rgb(31, 29, 29);
-    height: 500vh;
+    height: 600vh;
     
 }
 section .p-2{
@@ -393,5 +397,91 @@ section .p-2{
     font-size: large;
     padding-top: 20px;
 }
+.medium h1{
+    margin-top: 13%;
+    margin-left: 8%;
+    color: white;
+    font-size: 30px;
 
+}
+.blog .img-1{
+    width: 32%;
+    margin-top: 10%;
+    margin-left: -37%;
+}
+.blog .img-2{
+    width: 32%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.blog .img-3{
+    width: 32%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.product{
+    width: 30%;
+    line-height: 1.5;
+    background-color: #333;
+    color:  rgba(255, 255, 255, 0.4);
+    margin-left: -37%;
+    padding-left: 25px;
+    padding-bottom: 5%;
+    margin-top: -4px;
+}
+.product h1{
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.product p{
+    padding-top: 5%;
+    font-size: large;
+}
 
+.product-1{
+    width: 30%;
+    line-height: 1.5;
+    background-color: #333;
+    color:  rgba(255, 255, 255, 0.4);
+    margin-left: 3px;
+    padding-left: 25px;
+    padding-bottom: 5%;
+    margin-top: -25%;
+}
+.product-1 h1{
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.product-1 p{
+    padding-top: 5%;
+    font-size: large;
+}
+
+.product-2{
+    width: 30%;
+    line-height: 1.5;
+    background-color: #333;
+    color:  rgba(255, 255, 255, 0.4);
+    margin-left: 37.5%;
+    padding-left: 25px;
+    padding-bottom: 5%;
+    margin-top: -24%;
+    
+}
+.product-2 h1{
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.product-2 p{
+    padding-top: 5%;
+    font-size: large;
+}
+.icon img{
+    margin-top: 10%;
+    margin-left: 90%;
+    /* position: fixed;
+    bottom: 0; */
+}
